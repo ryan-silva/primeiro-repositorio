@@ -1,3 +1,5 @@
 Primeiro .txt no GitHub
 
 Edição no GitHub, top demais!! :)
+
+editando para enviar do repositorio local para o github
